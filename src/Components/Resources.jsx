@@ -115,19 +115,18 @@ const Resources = () => {
 						<span className="font-bold text-[#39FF14]">
 							Best resource to prepare for these subjects:
 						</span>{' '}
-						- Here’s an improved version of your paragraph: After
-						extensive research, we found that no single resource
-						covers all these subjects comprehensively and to the
-						right depth for placements. Some YouTube channels delve
-						too deeply into topics, while others barely scratch the
-						surface. With guidance from our alumni and careful
-						observation, we have created a preparation guide for
-						each subject, tailored to the level of depth required.
-						We've also considered the weightage these subjects hold
-						in coding interviews and software development. As a
-						result, we identified GeeksforGeeks, InterviewBit, and
-						some selected YouTube channels as the gold standard for
-						mastering these subjects.
+						- After extensive research, we found that no single
+						resource covers all these subjects comprehensively and
+						to the right depth for placements. Some YouTube channels
+						delve too deeply into topics, while others barely
+						scratch the surface. With guidance from our alumni and
+						careful observation, we have created a preparation guide
+						for each subject, tailored to the level of depth
+						required. We've also considered the weightage these
+						subjects hold in coding interviews and software
+						development. As a result, we identified GeeksforGeeks,
+						InterviewBit, and some selected YouTube channels as the
+						gold standard for mastering these subjects.
 					</li>
 
 					<li>
