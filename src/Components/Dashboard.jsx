@@ -38,7 +38,7 @@ const Dashboard = () => {
 	useEffect(() => {
 		const fetchData = async () => {
 			const querySnapshot = await getDocs(
-				collection(db, 'registrations')
+				collection(db, 'verifiedusername')
 			);
 			const data = querySnapshot.docs.map(doc => doc.data());
 			setRegistrations(data);
