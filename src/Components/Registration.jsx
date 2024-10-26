@@ -94,8 +94,11 @@ const SuccessPopup = ({ closePopup }) => {
 					Congratulations! Your registration has been successfully
 					received.
 					<br />
-					We will verify your details, and once confirmed, your
-					participation will be proudly displayed on the dashboard.
+					<span className="text-red-600">
+						We will verify your details, and once confirmed, your
+						participation will be proudly displayed on the
+						dashboard.
+					</span>
 				</p>
 				<a
 					href="https://chat.whatsapp.com/JeyUGTS42JOAidPIxMeZ4P"
